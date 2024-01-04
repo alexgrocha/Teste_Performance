@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HKAX9MXD642YHPMHJX641E31
-  version: v2.0
----
-
 ### `npm start`
 
 default, it is accessible at http://localhost:8080
